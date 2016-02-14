@@ -10,7 +10,7 @@ namespace TestingHelloWorldRepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, from Visual Studio!!!");
+            Console.WriteLine("Hello World!!!");
         }
     }
 }
